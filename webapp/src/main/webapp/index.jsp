@@ -1,5 +1,5 @@
-<h1>Hi Jose, Welcome to Simple DevOps Project!!!</h1>
-<h2>We are building a pipeline using Jenkins.</h2>
-<h2>Now we will see how to deploy war file on Docker container using Jenkins and Ansible. </h2>
+<h1>Welcome to My Instance of the Simple DevOps Project!!!</h1>
+<h2>I am working on building a complete pipeline using Jenkins.</h2>
+<p>So far, I have been able to integrate Jenkins, Ansible, Docker, and Tomcat to deploy this artifact into a docker container. </p>
 
-<h3>We are testing the Docker container build using Jenkins and Ansible.</h3>
+<b>I look forward to getting to the Kubernetes part, so that I can have redundancy and fault tolerance on my applications.</b>
